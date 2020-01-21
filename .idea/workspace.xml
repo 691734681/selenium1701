@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53e13ebb-c1e3-45da-887a-89b50cec9972" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/phantomjs.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/meyang/day3/Test01_JS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/meyang/day3/Test02_phantomjs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\doc\selenium_java\Selenium1701\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WSfMnpm4HtknCZ1gWGHmLaK74N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.meyang.day2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\doc\selenium_java\Selenium1701\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Test02_phantomjs.phantomjsTest">
+    <configuration name="Test01_JS.jsTest01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium1701" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meyang.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meyang.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.meyang.day3.Test01_JS" />
+      <option name="METHOD_NAME" value="jsTest01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02_phantomjs.phantomjsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium1701" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meyang.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meyang.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.meyang.day3.Test02_phantomjs" />
+      <option name="METHOD_NAME" value="phantomjsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test04_WebElementTest_select.selectTest02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium1701" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meyang.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meyang.day2" />
+      <option name="MAIN_CLASS_NAME" value="com.meyang.day2.Test04_WebElementTest_select" />
+      <option name="METHOD_NAME" value="selectTest02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test08_WebElementTest_upAndDownLoad.downLoadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium1701" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meyang.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meyang.day2" />
+      <option name="MAIN_CLASS_NAME" value="com.meyang.day2.Test08_WebElementTest_upAndDownLoad" />
+      <option name="METHOD_NAME" value="downLoadTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test08_WebElementTest_upAndDownLoad.upLoadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium1701" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meyang.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meyang.day2" />
+      <option name="MAIN_CLASS_NAME" value="com.meyang.day2.Test08_WebElementTest_upAndDownLoad" />
+      <option name="METHOD_NAME" value="upLoadTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Test02_phantomjs.phantomjsTest" />
+        <item itemvalue="TestNG.Test01_JS.jsTest01" />
+        <item itemvalue="TestNG.Test08_WebElementTest_upAndDownLoad.downLoadTest" />
+        <item itemvalue="TestNG.Test08_WebElementTest_upAndDownLoad.upLoadTest" />
+        <item itemvalue="TestNG.Test04_WebElementTest_select.selectTest02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53e13ebb-c1e3-45da-887a-89b50cec9972" name="Default Changelist" comment="" />
+      <created>1579147870875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579147870875</updated>
+      <workItem from="1579147874000" duration="10745000" />
+      <workItem from="1579221304911" duration="1610000" />
+      <workItem from="1579395576276" duration="261000" />
+      <workItem from="1579395967198" duration="7000" />
+      <workItem from="1579402790215" duration="10308000" />
+      <workItem from="1579479086538" duration="2702000" />
+      <workItem from="1579490359342" duration="8365000" />
+      <workItem from="1579565942912" duration="12284000" />
+      <workItem from="1579588948224" duration="5605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1579595995170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579595995170" />
+    <state x="541" y="255" key="Github.ShareDialog" timestamp="1579590578418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="541" y="255" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1579590578418" />
+    <state x="453" y="69" key="Github.UntrackedFilesDialog" timestamp="1579590620404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579590620404" />
+    <state width="1323" height="217" key="GridCell.Tab.0.bottom" timestamp="1579595974493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579595974493" />
+    <state width="1323" height="217" key="GridCell.Tab.0.center" timestamp="1579595974493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579595974493" />
+    <state width="1323" height="217" key="GridCell.Tab.0.left" timestamp="1579595974492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579595974492" />
+    <state width="1323" height="217" key="GridCell.Tab.0.right" timestamp="1579595974493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579595974493" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1579590522533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579590522533" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579595964661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579595964661" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1579588975480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579588975480" />
+  </component>
+</project>
