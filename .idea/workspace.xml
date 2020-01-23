@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53e13ebb-c1e3-45da-887a-89b50cec9972" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/phantomjs.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/meyang/day3/Test01_JS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/meyang/day3/Test02_phantomjs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +36,12 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="562" />
+    <option name="y" value="1" />
+    <option name="width" value="800" />
+    <option name="height" value="721" />
+  </component>
   <component name="ProjectId" id="1WSfMnpm4HtknCZ1gWGHmLaK74N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,7 +56,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +68,7 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.Test02_phantomjs.phantomjsTest">
-    <configuration name="Test01_JS.jsTest01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test01_JS.jsTest01" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium1701" />
       <extension name="coverage">
         <pattern>
@@ -84,7 +86,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02_phantomjs.phantomjsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test02_phantomjs.phantomjsTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium1701" />
       <extension name="coverage">
         <pattern>
@@ -102,7 +104,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test04_WebElementTest_select.selectTest02" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test04_WebElementTest_select.selectTest02" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium1701" />
       <extension name="coverage">
         <pattern>
@@ -120,7 +122,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test08_WebElementTest_upAndDownLoad.downLoadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test08_WebElementTest_upAndDownLoad.downLoadTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium1701" />
       <extension name="coverage">
         <pattern>
@@ -138,7 +140,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test08_WebElementTest_upAndDownLoad.upLoadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test08_WebElementTest_upAndDownLoad.upLoadTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium1701" />
       <extension name="coverage">
         <pattern>
@@ -156,6 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.Test01_JS.jsTest01" />
+      <item itemvalue="TestNG.Test02_phantomjs.phantomjsTest" />
+      <item itemvalue="TestNG.Test04_WebElementTest_select.selectTest02" />
+      <item itemvalue="TestNG.Test08_WebElementTest_upAndDownLoad.downLoadTest" />
+      <item itemvalue="TestNG.Test08_WebElementTest_upAndDownLoad.upLoadTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.Test02_phantomjs.phantomjsTest" />
@@ -196,18 +205,35 @@
       <workItem from="1579479086538" duration="2702000" />
       <workItem from="1579490359342" duration="8365000" />
       <workItem from="1579565942912" duration="12284000" />
-      <workItem from="1579588948224" duration="5605000" />
+      <workItem from="1579588948224" duration="5985000" />
+      <workItem from="1579651666451" duration="22000" />
+      <workItem from="1579651853850" duration="1129000" />
+      <workItem from="1579653318570" duration="378000" />
+      <workItem from="1579676028169" duration="670000" />
+      <workItem from="1579678215698" duration="37000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1579596019545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579596019545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1579595995170">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1579596014895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579595995170" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579596014895" />
     <state x="541" y="255" key="Github.ShareDialog" timestamp="1579590578418">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -216,33 +242,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="453" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579590620404" />
-    <state width="1323" height="217" key="GridCell.Tab.0.bottom" timestamp="1579595974493">
+    <state width="1323" height="217" key="GridCell.Tab.0.bottom" timestamp="1579596153606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579595974493" />
-    <state width="1323" height="217" key="GridCell.Tab.0.center" timestamp="1579595974493">
+    <state width="1323" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579596153606" />
+    <state width="1323" height="217" key="GridCell.Tab.0.center" timestamp="1579596153605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579595974493" />
-    <state width="1323" height="217" key="GridCell.Tab.0.left" timestamp="1579595974492">
+    <state width="1323" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579596153605" />
+    <state width="1323" height="217" key="GridCell.Tab.0.left" timestamp="1579596153605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579595974492" />
-    <state width="1323" height="217" key="GridCell.Tab.0.right" timestamp="1579595974493">
+    <state width="1323" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579596153605" />
+    <state width="1323" height="217" key="GridCell.Tab.0.right" timestamp="1579596153606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579595974493" />
+    <state width="1323" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579596153606" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1579590522533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579590522533" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579595964661">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1579596112539">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579595964661" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1579588975480">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579596112539" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1579678224711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579588975480" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579678224711" />
   </component>
 </project>

@@ -7,8 +7,5 @@ public class Test {
         String time=si.format(new Date());
         time = time.trim().replaceAll("\\s+","_");
         System.out.println(time);
-//        String filename = time+".jpg";
-//        filename.trim().replaceAll("2","x");
-//        System.out.println(filename);
     }
 }
